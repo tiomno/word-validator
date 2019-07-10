@@ -1,0 +1,9 @@
+{
+  "name": "word-validator",
+  "version": "1.0.0",
+  "description": "testing netlify with a simple word matching service",
+  "main": "index.js",
+  "author": "tiomno <tiomno@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
